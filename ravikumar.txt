@@ -1,8 +1,0 @@
-this is first class
-
-class going in git
-
-push request
-
-testing for pull request
-
