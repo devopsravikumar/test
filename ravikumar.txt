@@ -2,4 +2,8 @@ this is first class
 
 class going in git
 
+<<<<<<< HEAD
 push request
+=======
+testing for pull request
+>>>>>>> 429a2a7b4db283b448430f34659a0c5e05ced8eb
